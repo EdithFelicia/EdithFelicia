@@ -1,5 +1,5 @@
 ## Hi there fellow Coders!👋
-# There's nothing new under the sun~
+### There's nothing new under the sun~
 
 - 🔭 I’m currently working on to be a Data Analyst.
 - 🌱 I’m currently learning from Codedex, Youtube, etc.
