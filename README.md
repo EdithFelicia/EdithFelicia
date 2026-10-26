@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**EdithFelicia/EdithFelicia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there fellow Coders!👋
 
 - 🔭 I’m currently working on to be a Data Analyst.
 - 🌱 I’m currently learning from Codedex, Youtube, etc.
